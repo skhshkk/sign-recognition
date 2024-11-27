@@ -1,0 +1,10 @@
+0 Fine
+1 Hello
+2 I Love You
+3 Like
+4 Me
+5 No
+6 Thank you
+7 Unknown
+8 Where
+9 Yes
