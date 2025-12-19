@@ -1,4 +1,6 @@
 Sign Recognition System
+
+
 📌 Overview
 
 The Sign Recognition System is a computer vision–based project that detects and classifies signs from images using deep learning techniques. The system focuses on image preprocessing, feature extraction, and model training to accurately recognize different sign categories, demonstrating the practical use of Convolutional Neural Networks (CNNs) in real-world vision tasks.
