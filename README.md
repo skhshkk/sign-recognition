@@ -1,1 +1,1 @@
-# sign-recognition
+A computer vision–based sign recognition system built using deep learning to detect and classify signs from images. The project focuses on image preprocessing, feature extraction, and model training to accurately recognize different sign categories, demonstrating practical applications of CNNs in real-world vision tasks.
